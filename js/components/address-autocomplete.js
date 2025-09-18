@@ -13,6 +13,12 @@ class AddressAutocomplete extends HTMLElement {
                     gap: 10px;
                       width:50%;
                     padding :  10px;
+
+
+
+
+
+                    
                 }
                 .departure-input, .arrival-input {
                     width: 100%;
